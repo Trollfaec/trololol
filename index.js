@@ -60,11 +60,12 @@ const ART = [
 ]
 
 const SEARCHES = [
-  'jshop',
-  'ptoszek',
-  'ptak',
-  'kanarek',
-  'jaczup'
+  'mango mango',
+  'trollface',
+  'balkan rage',
+  'those who know',
+  'hello my name is barack obama',
+  'MINGLE MINGLE AGGRESIVE GAMING PHONK REMIX' 
 ]
 
 const VIDEOS = [
@@ -98,14 +99,14 @@ const FILE_DOWNLOADS = [
 ]
 
 const PHRASES = [
-  'hello my name is ptoszek, lol',
-  'birds are funny lalalalalalalallalala',
-  'wgl co u cb bo u mn dbr',
-  'knuuurrr eksplozja',
-  'hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw',
-  'abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz',
-  'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaak',
-  'eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo'
+  'mango mango mango mango',
+  'flint and meal flint and meal flint and meal flint and meal',
+  'TROLLFACE BALKAN RAGE',
+  'RAKIETAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA',
+  'noradrenaline noradrenaline noradrenaline noradrenaline noradrenaline noradrenaline',
+  'Stillwater those who know skull emoji',
+  'geeeeeeeeeeeeeeeeeeeeeeeeeeeermannnnnnnnnnn stareeeeeeeeeeeeeeeeeeeeeeeee',
+  'BOOOOOOIIIIIIII WHAT DID YOU SAY ABOUT PACKGOD AND PHONK'
 ]
 
 const LOGOUT_SITES = {
@@ -297,7 +298,7 @@ function initParentWindow () {
       removeHelloMessage()
       rainbowThemeColor()
       animateUrlWithEmojis()
-      speak('To był błąd')
+      speak('To był balkan rage')
     }
   })
 }
