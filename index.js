@@ -69,7 +69,7 @@ const SEARCHES = [
 ]
 
 const VIDEOS = [
-  'media/videos/jaczup.mp4',
+  'media/videos/VID-20250414-WA0000.mp4,
   'media/videos/duck.mp4',
   'media/videos/rickroll.mp4',
   'media/videos/golomb.mp4',
