@@ -70,11 +70,11 @@ const SEARCHES = [
 
 const VIDEOS = [
   'media/videos/VID-20250414-WA0000.mp4',
-  'media/videos/duck.mp4',
-  'media/videos/rickroll.mp4',
-  'media/videos/golomb.mp4',
-  'media/videos/mushbox.mp4',
-  'media/videos/clearmax.mp4',
+  'media/videos/chicken-song--jgeco.mp4',
+  'media/videos/sleepphonk.mp4',
+  'media/videos/mangos-mangos-phonk.mp4',
+  'media/videos/gelando.mp4',
+  'media/videos/clearmax.mp4', //zapamiętać: dodać więcej rzeczy
   'media/videos/freestrona.mp4',
   'media/videos/ajhsdfhjasdbhfjasdfs.mp4',
   'media/videos/v09044g40000cgr968jc77u1t2krb89g.mov',
@@ -94,8 +94,8 @@ const FILE_DOWNLOADS = [
   'media/images/realistycznyTrollface.jpg',
   'media/images/szkielet.png', // added by @dan64iel
   'media/images/trollfaceminecraft.png', //added by @imzeme
-  'media/images/grubyptok.jpg', //added by @imzeme
-  'media/images/ptokzjajami.jpeg' //added by @MARECKIyt
+  'media/images/szalonytrollface.png', //added by @imzeme
+  'media/images/MANGOMANGOTROLLFACE.png' //added by @MARECKIyt
 ]
 
 const PHRASES = [
