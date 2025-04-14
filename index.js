@@ -74,14 +74,14 @@ const VIDEOS = [
   'media/videos/sleepphonk.mp4',
   'media/videos/mangos-mangos-phonk.mp4',
   'media/videos/gelando.mp4',
-  'media/videos/clearmax.mp4', //zapamiętać: dodać więcej rzeczy
+  'media/videos/gratulacje-użytkowniku.mp4', //zapamiętać: dodać więcej rzeczy
   'media/videos/freestrona.mp4',
-  'media/videos/ajhsdfhjasdbhfjasdfs.mp4',
-  'media/videos/v09044g40000cgr968jc77u1t2krb89g.mov',
-  'media/videos/intro.mp4',
-  'media/videos/szybkakaczka.mp4', // added by @dan64iel
-  'media/videos/kaczuszka.mp4', //added by @imzeme
-  'media/videos/gratulacje.mp4' //added by @GameShoot8050
+  'media/videos/freddy (2).mp4',
+  'media/videos/chomik.mp4',
+  'media/videos/kongregacja.mp4',
+  'media/videos/untitled.mp4', // added by @dan64iel
+  'media/videos/warstwy.mp4', //added by @imzeme
+  'media/videos/rickroll.mp4' //added by @GameShoot8050
 ]
 
 const FILE_DOWNLOADS = [
