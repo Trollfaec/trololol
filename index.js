@@ -129,7 +129,7 @@ const VIDEOS = [
   'media/videos/kongregacja.mp4',
   'media/videos/untitled.mp4', // added by @dan64iel
   'media/videos/warstwy.mp4', //added by @imzeme
-  'media/videos/rickroll.mp4' //added by @GameShoot8050
+  'media/videos/atlantis-dj-konik-special-vocal.mp4' //added by @GameShoot8050
 ]
 
 const FILE_DOWNLOADS = [
